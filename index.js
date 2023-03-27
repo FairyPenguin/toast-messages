@@ -1,3 +1,5 @@
+// global Variables
+
 const success = document.querySelector(".success");
 const warning = document.querySelector(".warning");
 const info = document.querySelector(".info");
